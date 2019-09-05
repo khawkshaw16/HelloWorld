@@ -1,0 +1,13 @@
+//C++ Hello World Program
+#include<iostream>
+//setting up standard
+using namespace std;
+
+//main function
+int main()
+{
+  //print Hello World out
+  cout<<"Hello World";
+  
+  return 0;
+}  
